@@ -81,7 +81,7 @@ const CaptchaApp = () => {
         style={{
           maxWidth: "600px",
           margin: "0 auto",
-          padding: "20px",
+          
           border: "1px solid #ccc",
           borderRadius: "8px",
           backgroundColor: "#f9f9f9",
@@ -108,7 +108,7 @@ const CaptchaApp = () => {
             <button
               type="submit"
               style={{
-                backgroundColor: "#4CAF50",
+                backgroundColor: "blue",
                 color: "white",
                 border: "none",
                 padding: "10px 20px",
