@@ -73,9 +73,9 @@ const CaptchaApp = () => {
   };
 
   return (
-    <div style={{ fontFamily: "Arial, sans-serif", margin: "20px" }}>
-      <h1 style={{ textAlign: "center", color: "#008000" }}>
-        CAPTCHA IMPLEMENT
+    <div style={{ fontFamily: "Arial, sans-serif"}}>
+      <h1 style={{  color: "blue" }}>
+        My Captchat
       </h1>
       <div
         style={{
